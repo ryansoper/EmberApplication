@@ -1,7 +1,7 @@
 {
-  "name": "ember-application",
+  "name": "mysite",
   "version": "0.0.0",
-  "description": "Small description for ember-application goes here",
+  "description": "Small description for mysite goes here",
   "private": true,
   "directories": {
     "doc": "doc",
