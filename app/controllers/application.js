@@ -7,6 +7,12 @@ actions:{
   } ,
   goToIndex: function () {
     this.transitionToRoute("index");
+  },
+  goToSoftware: function () {
+    this.transitionToRoute("software");
+  },
+  goToPolice: function () {
+    this.transitionToRoute("police");
   }
 }
 });
